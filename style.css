@@ -1,0 +1,23 @@
+body{
+	margin:0px;
+}
+.main{
+	height: 650px;
+	background-color: red;
+}
+.btnGenDiv{
+	border: none;
+	background-color: green;
+	color: white;
+	font-family: Ariel;
+	height: 35%;
+	width: 35%;
+	margin: auto;
+}
+.btnGen{
+	background-color: green;
+	color: white;
+	height: 100%;
+	width: 100%;
+	font-family: Ariel;
+}
